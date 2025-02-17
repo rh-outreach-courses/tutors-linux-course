@@ -7,6 +7,7 @@ If the slides were created in an online tool such as Google docs the links to ca
 
 * [Editors on Linux](https://docs.google.com/presentation/d/1iQTKr1-5JwLA6kUe7o5T1zsntGALLhuoiUmGGjtD8N8/edit?usp=sharing)
 * [Introduction to the terminal](https://docs.google.com/presentation/d/1sl5PQt0QYYLWk5I6vYnTAtQfaRv4gEQ3yN02c1_4d4E/edit?usp=sharing)
+* [Pipes, Grep, Xargs](https://docs.google.com/presentation/d/1yFty-jGk1SD5uwQbkqgeOZAZwhaKJFw5tylZ-Q1Be-Q/edit#slide=id.ga089527607_0_0)
 
 ## Development
 
